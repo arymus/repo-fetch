@@ -120,7 +120,7 @@ function App() {
 
     };
 
-  const footerStyle: string = "bg-[#151b23] position-relative bottom-0 text-gray-500";``
+  const footerStyle: string = "bg-[#151b23] position-relative bottom-0 text-gray-500";
   const linkStyle: string = "";
 
   // Return HTML content
